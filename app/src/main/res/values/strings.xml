@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cancer-Clasification</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="save">Save Data</string>
+    <string name="seeHistory">See History</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="notfound"> Try Again</string>
+    <string name="predicitionresult">See History</string>
+    <string name="delete">Delete</string>
+</resources>
